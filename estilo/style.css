@@ -59,7 +59,11 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
+<<<<<<< HEAD
     padding-bottom: 50px;
+=======
+    margin-bottom: 30px;
+>>>>>>> eaf931ea446ef6f303ef55972230b34627e6d8b9
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.226);
 }
 
